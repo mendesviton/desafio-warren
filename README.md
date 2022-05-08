@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# desafio-warren
+Repositório do desafio warren tech academy
+>>>>>>> 100638619e99f25ac09a0877552f0d2c9f4acd2d
