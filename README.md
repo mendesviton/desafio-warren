@@ -1,21 +1,60 @@
-<<<<<<< HEAD
-# project
+![Dart CI](https://github.com/jpgSouza/my-resume-app/workflows/Dart%20CI/badge.svg)
+[![codecov](https://codecov.io/gh/jpgSouza/my-resume-app/branch/master/graph/badge.svg?token=A20KNDBCJC)](undefined)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/jpgSouza/my-resume-app)
 
-A new Flutter project.
+<h1 align="center">Desafio Warren Academy </h1>
+<p align="center">Resolução dos desafios</p>
 
-## Getting Started
+-----
 
-This project is a starting point for a Flutter application.
+<h3 align="center"> 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![2022-05-08-21-15-13](https://user-images.githubusercontent.com/94265037/167322051-30d41602-4d6f-4b82-b12c-65a81d5b1dcd.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# desafio-warren
-Repositório do desafio warren tech academy
->>>>>>> 100638619e99f25ac09a0877552f0d2c9f4acd2d
+
+
+  
+</h3>
+
+-----
+## ⚒️ Ferramentas 
+As seguintes ferramentas foram usadas na construção do projeto:
+- [Flutter](https://flutter.dev)
+
+# 📲 Como utilizar? 
+
+## ▶️ Via código fonte
+
+### Requisitos
+ - Visual studio code ou Android Studio
+ - Flutter SDK
+ - Java JDK (Versão 8)
+ - Android SDK
+ 
+### Verificação
+- Para verificar se tudo está configurado corretamente, rode o seguinte comando:
+```
+$ flutter doc
+```
+
+### Clone
+- Clone este repositório na sua máquina local
+```
+$ git clone https://github.com/mendesviton/desafio-warren.git
+```
+
+## ▶️ Via APK
+
+### Requisitos
+ - Dispositivo Android (SDK mínimo 16)
+ - Conexão via USB
+ 
+### Passos
+ 1. Conecte o dispositivo Android no USB do seu computador.
+ 2. Entre na pasta na onde se econtra a aplicação.
+ 3. Rode o comando **flutter install**.
+ ```
+$ flutter install
+```
+
