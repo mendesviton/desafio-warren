@@ -11,9 +11,6 @@
 
 
 ![2022-05-08-21-15-13](https://user-images.githubusercontent.com/94265037/167322051-30d41602-4d6f-4b82-b12c-65a81d5b1dcd.gif)
-
-
-https://img.freepik.com/fotos-gratis/imagem-aproximada-em-tons-de-cinza-de-uma-aguia-careca-americana-em-um-fundo-escuro_181624-31795.jpg?w=2000
   
 </h3>
 
